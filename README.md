@@ -1,16 +1,24 @@
-## Hi there 👋
+# 🦝 AbdellahSec
 
-<!--
-**AbdellahSec/AbdellahSec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile! I'm **Abdellah**, a passionate ethical hacker from Morocco 🇲🇦 learning to conquer the digital world 👾💻
 
-Here are some ideas to get you started:
+## 🔥 What I do:
+- 🕵️ Penetration Testing
+- 🎯 Bug Bounty Hunting
+- 🛡️ Red Teaming
+- 💣 CTF Challenges
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Current Mission:
+- ✅ Finish eJPT
+- ✅ Finish eCPPT
+- ✅ Master IDOR, SSRF, LFI, XSS
+- ✅ Become a remote pentester & escape to freedom 🌍
+
+## 🧰 Tools & Projects Coming Soon:
+- Python & Go Hacking Tools
+- My Custom Ethical Hacking Course
+- Real Bug Writeups
+- Bypasses & Tips
+
+## 💬 Let’s connect!
+Feel free to follow, fork, or just say hi! 💙
